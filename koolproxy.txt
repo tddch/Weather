@@ -584,6 +584,8 @@
 @@@@|https://sns-paopao.iqiyi.com
 @@@@|https://subscription.iqiyi.com
 !@@@@|https://static.iqiyi.com
+@@@@|https://sf3-fe-tos.pglstatp-toutiao.com/
+@@@@|https://log-api.pangolin-sdk-toutiao-b.com
 @@@@|https://sugar.zhihu.com
 @@@@|https://static.zhihu.com
 !@@@@|https://s.youtube.com/api/
