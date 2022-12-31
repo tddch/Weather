@@ -497,6 +497,7 @@
 @@@@|https://cook.iqiyi.com
 @@@@|https://cmts.iqiyi.com
 @@@@|https://cdndata.video.iqiyi.com
+@@@@|https://api-access.pangolin-sdk-toutiao.com
 @@@@|https://community.iqiyi.com
 @@@@|https://cs-feige.iqiyi.com
 @@@@|https://df.tanx.com
@@ -512,6 +513,7 @@
 @@@@|https://gateway.icloud.com.cn
 @@@@|https://haojia-api.smzdm.com
 @@@@|https://i.vip.iqiyi.com
+@@@@|https://api-access.pangolin-sdk-toutiao.com
 @@@@|https://ifs.tanx.com
 @@@@|https://iqid.iqiyi.com
 !@@@@|https://iyes.youku.com
