@@ -456,6 +456,9 @@
 @@@@|https://al.autohome.com.cn
 @@@@|https://alogs.umeng.com
 @@@@|https://api.k.sohu.com
+@@@@|https://clue.oceanengine.com
+@@@@|https://tnc3-bjlgy.zijieapi.com
+@@@@|https://tnc3-alisc1.zijieapi.com
 @@@@|https://api.smzdm.com
 @@@@|https://act.vip.iqiyi.com
 @@@@|https://acs.cp12.ott.cibntv.net
@@ -600,6 +603,7 @@
 !@@@@|https://vv6.video.qq.com
 @@@@|https://www.google.com
 @@@@|https://www.googleapis.com
+@@@@|https://www.chengzijianzhan.com/
 !@@@@|https://youtubei.googleapis.com
 !@@@@|https://www.qidian.com/Javascript/ChapterPageHeader.js?t
 !@@@@|https://www.qidian.com/Javascript/qidian.bookchannel.js?
